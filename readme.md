@@ -1,6 +1,6 @@
 Annoying LED Alarm Clock
 =========
-
+<!--  -->
 Alarm Clock using arduino uno, a RTC, a relay, and a piezo buzzer.  
 
 https://user-images.githubusercontent.com/49507423/153505005-973e014c-9487-4cf5-ab0f-6b3314a34a78.mp4
@@ -9,8 +9,9 @@ https://user-images.githubusercontent.com/49507423/153505005-973e014c-9487-4cf5-
 
 <!-- ![as](https://github.com/DIYCharles/AnnoyingLedAlarmClock/blob/master/pics/1.gif?raw=true "gif.gif") -->
 
+![alt text](https://github.com/DIYCharles/AnnoyingLedAlarmClock/blob/master/pics/2.jpg?raw=true "img2.jpg") 
 
-<!-- ![alt text](https://raw.githubusercontent.com/DIYCharles/DIYKeyboards-/master/photos/img1.jpg "img1.jpg") -->
+![alt text](https://github.com/DIYCharles/AnnoyingLedAlarmClock/blob/master/pics/1.jpg?raw=true "img1.jpg") 
 
 Table of contents
 =================
@@ -25,6 +26,12 @@ Table of contents
 
 Wiring
 ============
+
+![alt text](https://github.com/DIYCharles/AnnoyingLedAlarmClock/blob/master/pics/3.jpg?raw=true "img1.jpg")
+
+![alt text](https://github.com/DIYCharles/AnnoyingLedAlarmClock/blob/master/pics/4.jpg?raw=true "img1.jpg")
+
+
 
 <!-- I wired this in the COL2ROW diode configuration. How this works is each column is connected to its own pin then the other side of the switch is connected to a diode with the line on the far side. The other side of the diode is connected to the ends of all the other diodes in the same row.
 
@@ -41,6 +48,10 @@ The rotary encoder has 5 pins. The two on one side are a switch that is activate
 
 Build
 ============
+
+![alt text](https://github.com/DIYCharles/AnnoyingLedAlarmClock/blob/master/pics/model1.jpg?raw=true "img1.jpg")
+
+![alt text](https://github.com/DIYCharles/AnnoyingLedAlarmClock/blob/master/pics/model2.jpg?raw=true "img1.jpg")
 
 <!-- I didn't put much thought into the design or build. There are 4 parts. They are held together by 4 M3x20mm screws and 8 M3 nuts. Install everything on the top plate and wire. Match the face plate with the base and cut the wires to size. Solder up the pro-micro and test. To get the M3 nuts to sit apply a soldering tip to them and melt them into the hole. 
 
