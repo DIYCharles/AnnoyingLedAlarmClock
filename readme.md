@@ -3,7 +3,11 @@ Annoying LED Alarm Clock
 
 Alarm Clock using arduino uno, a RTC, a relay, and a piezo buzzer.  
 
-![as](https://github.com/DIYCharles/AnnoyingLedAlarmClock/blob/master/pics/1.gif?raw=true "gif.gif")
+https://user-images.githubusercontent.com/49507423/153505005-973e014c-9487-4cf5-ab0f-6b3314a34a78.mp4
+
+
+
+<!-- ![as](https://github.com/DIYCharles/AnnoyingLedAlarmClock/blob/master/pics/1.gif?raw=true "gif.gif") -->
 
 
 <!-- ![alt text](https://raw.githubusercontent.com/DIYCharles/DIYKeyboards-/master/photos/img1.jpg "img1.jpg") -->
